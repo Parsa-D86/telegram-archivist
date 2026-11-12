@@ -1,0 +1,4 @@
+Telethon==1.45.0
+rich==14.3.3
+mutagen==1.47.0
+python-socks[asyncio]==2.8.1
